@@ -1,6 +1,6 @@
 from pyteal import Expr, Subroutine, TealType, WideRatio
 
-from .math import min
+from pytealutil.math import min
 
 
 class ConstantProduct:
